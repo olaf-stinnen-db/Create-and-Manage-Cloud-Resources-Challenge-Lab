@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?app=desktop&v=xAAn7Cgu-OE
+
 # Create-and-Manage-Cloud-Resources-Challenge-Lab
 # Task 1: Create a project jumphost instance
 ## ...use f1-micro for small Linux VMs, and use n1-standard-1 for Windows or other applications, such as Kubernetes nodes
